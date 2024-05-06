@@ -12,3 +12,9 @@ Ef ein hauskúpan segir t.d. "Marco" þá sendir hann "Marco" til hins hauskaupa
 en ef ein hauskúpan segir eitthvað og hin segir ekki neitt þá hættir þetta þar sem þetta er interactive og það þarf að svara.
 
 </div>
+
+## Languages Used
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+
+
