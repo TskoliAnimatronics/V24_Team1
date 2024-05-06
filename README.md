@@ -23,5 +23,5 @@ en ef ein hauskúpan segir eitthvað og hin segir ekki neitt þá hættir þetta
 
 </div>
 
-
+<hr>
 Þetta verkefni var unnið af **Anton Smára**, **Lukas Grig**, **Ngozi Miracle** og **Sigurpáll B**.
