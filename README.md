@@ -23,6 +23,7 @@ en ef ein hauskúpan segir eitthvað og hin segir ekki neitt þá hættir þetta
 
 </div>
 
-<hr>
-
-Þetta verkefni var unnið af **Anton Smára**, **Lukas Grig**, **Ngozi Miracle** og **Sigurpáll B**.
+<div align="center">
+    <hr width="80%">
+    <p>Þetta verkefni var unnið af <strong>Anton Smára</strong>, <strong>Lukas Grig</strong>, <strong>Ngozi Miracle</strong> og <strong>Sigurpáll B</strong>.</p>
+</div>
