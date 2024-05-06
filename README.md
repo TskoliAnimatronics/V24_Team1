@@ -15,6 +15,6 @@ en ef ein hauskúpan segir eitthvað og hin segir ekki neitt þá hættir þetta
 
 ## Languages Used
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 Þetta verkefni var unnið af **Anton Smára**, **Lukas Grig**, **Ngozi Miracle** og **Sigurpáll B**.
