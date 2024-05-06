@@ -17,5 +17,5 @@ en ef ein hauskúpan segir eitthvað og hin segir ekki neitt þá hættir þetta
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
-Þetta verkefni var unnið af [Anton Smára], [Lukas Grig], [Ngozi Miracle] og [Sigurpáll B].
+Þetta verkefni var unnið af <u>Anton Smára</u>, <u>Lukas Grig</u>, <u>Ngozi Miracle</u> og <u>Sigurpáll B</u>.
 
