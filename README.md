@@ -16,7 +16,7 @@ en ef ein hauskúpan segir eitthvað og hin segir ekki neitt þá hættir þetta
 ## Languages Used
 
 <p>
-    <span style="position: relative; top: 4px;">
+    <span style="position: relative; top: 90px;">
     This project was entirely made with Python.
     </span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%; vertical-align: middle;">
