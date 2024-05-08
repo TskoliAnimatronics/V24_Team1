@@ -13,6 +13,12 @@ en ef ein hauskúpan segir eitthvað og hin segir ekki neitt þá hættir þetta
 
 </div>
 
+## Hérna er rough overview hvernig allt virkar! 
+
+<div align="center">
+     <img src="tengingar_overview.png" alt="Image 3" width="512px">
+<div>
+
 ## Languages Used
 
 <div align="center">
