@@ -3,7 +3,7 @@
 <p align="center">
     Þetta er Q1 af verkefninu uppsetning á hauskúpu og tenginum.
 </p>
-<hr width="80%">
+<hr align="center "width="80%">
 <p align="center">
     <img src="/myndir/anton_esp32.jpg" alt="Image 1" width="512px">
 </p>
