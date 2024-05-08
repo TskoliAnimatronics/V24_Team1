@@ -12,10 +12,10 @@ Ef ein hauskúpan segir t.d. "Marco" þá sendir hann "Marco" til hins hauskaupa
 en ef ein hauskúpan segir eitthvað og hin segir ekki neitt þá hættir þetta þar sem þetta er interactive og það þarf að svara.
 
 </div>
-
-## Hérna er rough overview hvernig allt virkar! 
-
 <div align="center">
+    <h1>Hérna er rough overview hvernig allt virkar!<h1>
+
+
      <img src="tengingar_overview.png" alt="Image 3" width="512px">
 <div>
 
