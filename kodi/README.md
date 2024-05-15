@@ -1,5 +1,3 @@
-<div align="center">
-    ```python
-    print("Hello World")
-    ```
-</div>
+```python
+print("Hello World")
+```
