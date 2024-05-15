@@ -23,6 +23,12 @@ https://www.youtube.com/shorts/aN9nFoOeGXg
      <img src="tengingar_overview.png" alt="Image 3" width="512px">
 <div>
 
+<div align="center">
+     <img src="node-red-dashboard.jpeg" alt="Image 3" width="512px">
+<div>
+
+
+
 ## Languages Used
 
 <div align="center">
