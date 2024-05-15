@@ -13,6 +13,10 @@ en ef ein hauskúpan segir eitthvað og hin segir ekki neitt þá hættir þetta
 
 </div>
 
+### Myndband
+
+https://www.youtube.com/shorts/aN9nFoOeGXg
+
 ## Hérna er rough overview hvernig allt virkar! 
 
 <div align="center">
