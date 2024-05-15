@@ -135,7 +135,7 @@ async def main():
 asyncio.run(main())
 ```
 ## Kóði 2
-```
+```python
 from time import sleep_ms, sleep
 from lib.dfplayer import DFPlayer
 from machine import Pin, PWM, ADC, unique_id, SoftSPI, I2C
